@@ -13,7 +13,7 @@ const Funeral = () => {
 			<div>
 				<img src={WImageTwo} alt="weddingOne" />
 			</div>
-			<div>
+			<div> 
 				<img src={WImageThree} alt="weddingOne" />
 			</div>
 			<div>
